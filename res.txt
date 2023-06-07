@@ -1,6 +1,0 @@
-frequency_bitwise_test: 0.8596837951986662
-	It means, that sequence is random
-identical_consecutive_bits_test: 0.8574802072209932
-	It means, that sequence is random
-the_longest_units_sequence_test: 0.682855154252068
-	It means, that sequence is random
